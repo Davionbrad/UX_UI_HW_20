@@ -1,0 +1,77 @@
+html , body{
+    padding: 0%;
+    background-color: #0D0D0D;
+}
+
+.jumbotron1 {
+    background-image: url(../images/hero-pic@2x.png);
+    width: 100%;
+    height: calc(100vh - 100px);
+   
+}
+.jumbotron2 {
+    background-image: url(../images/Artboard\ –\ 1@2x.png);
+    width: 100%;
+    height: calc(100vh - 100px);
+}
+.picmargin {
+    margin: 0 0 50px ;
+}
+
+li {
+    color: #7ED77C;
+}
+
+.rrts li{
+    text-decoration: none;
+}
+
+p {
+    margin: 0 373px;
+    color: #7ED77C;
+}
+.user-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 200px;
+   
+}
+
+.branding-pic img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+}
+
+.rs {
+    margin: 100px 0;
+}
+h3 {
+    color: #5d5f5c;
+    text-align: center;
+    text-transform: uppercase;
+}
+.uf-pic img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 700px;
+}
+.sk-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 500px;
+    background-color: aqua;
+} 
+.line {
+    background-color: #5d5f5c;
+    width: 100%;
+    height: 2px;
+} 
